@@ -1,1 +1,1 @@
-# LGMVIP-Web-Dev-
+# LGMVIP-WebDev
